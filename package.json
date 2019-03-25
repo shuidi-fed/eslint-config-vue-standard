@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vue-standard",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "zero-configuration eslint of vue app",
   "main": "index.js",
   "author": "tangruijia",
