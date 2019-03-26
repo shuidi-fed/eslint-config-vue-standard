@@ -1,11 +1,16 @@
 {
   "name": "eslint-config-vue-standard",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Use eslint same as @vue/cli3 standard config with one dependence",
   "main": "index.js",
   "author": "tangruijia",
   "license": "MIT",
   "repository": "https://github.com/shuidi-fed/eslint-config-vue-standard",
+  "keywords": [
+    "eslint",
+    "vue",
+    "standard"
+  ],
   "dependencies": {
     "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.1",
