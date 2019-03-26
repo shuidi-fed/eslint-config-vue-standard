@@ -1,6 +1,6 @@
 # Eslint config vue standard
 
-Use eslint in vue app with zero configuration
+Use eslint same as @vue/cli3 standard config with one dependence
 
 [![NPM Version][npm-image]][npm-url]
 
